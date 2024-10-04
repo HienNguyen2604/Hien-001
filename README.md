@@ -186,11 +186,11 @@
         </figure>
 
         <figure> 
-        <img id="img5" src="https://hiennguyen2604.github.io/Hien-001/ăn vụng.jpg" alt="ăn vụng">
+        <img id="img5" src="https://hiennguyen2604.github.io/Hien-001/anh 2 buồn.jpg" alt="ăn vụng">
         <figcaption>ăn vụng</figcaption>
         </figure>
 		
-		<figure> 
+	<figure> 
         <img id="img6" src="https://hiennguyen2604.github.io/Hien-001/anh 2 buồn.jpg" alt="anh 2 buồn">
         <figcaption>anh 2 buồn</figcaption>
         </figure>
