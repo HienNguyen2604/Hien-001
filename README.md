@@ -186,7 +186,7 @@
         </figure>
 
         <figure> 
-        <img id="img5" src="file:https://hiennguyen2604.github.io/Hien-001/ăn vụng.jpg" alt="ăn vụng">
+        <img id="img5" src="https://hiennguyen2604.github.io/Hien-001/ăn vụng.jpg" alt="ăn vụng">
         <figcaption>ăn vụng</figcaption>
         </figure>
 		
